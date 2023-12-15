@@ -1,0 +1,4 @@
+<template>
+  <SharedGlobalHeader />
+  <slot />
+</template>
